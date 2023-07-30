@@ -29,15 +29,15 @@ The process flow is simulated and modeled using statistical distributions such a
 * Arrival Distribution and Emergency Room Availability are simulated based on schedule in the dataset.
 * Service time of the Receptionist/Triage Nurse is simulated using Beta distribution.
 
-Model verification is conducted, proposed modifications are made and assessed. See the final project presentation here: [Waiting in the ed department on A Typical Day(SIMULATING-PATIENT-WAIT-TIME-IN-THE-EMERGENCY-DEPARTMENT-ED-/Simulation Modeling of Waiting Times in the ED.pdf)
+Model verification is conducted, proposed modifications are made and assessed. See the final project presentation here: [Waiting in the ed department on A Typical Day](https://github.com/saidatsanni/SIMULATING-PATIENT-WAIT-TIME-IN-THE-EMERGENCY-DEPARTMENT-ED-/blob/e478ae3c10242da214c483d994e01f4911a47ebb/Simulation%20Modeling%20of%20Waiting%20Times%20in%20the%20ED.pdf)
 
 **Conclusion**
 
-* The overall patients avg. waiting time is 28.31 minutes and a max. of 334.90 minutes (an extreme case).
-* The most wait is at the check-in and triage process.
+* The overall patients average waiting time is 28.31 minutes and a maximum of 334.90 minutes (an extreme case).
+* The highest waiting time occurs at the check-in and triage stages.
 * Waiting times vary based on patients means of arrival.
-** Unspecified forms of arrivals are the highest, and then car arrivals
-** Public transport or taxi are the least.
+* Patients that arrived via unspecified forms of arrivals have the highest waiting times, and then car arrivals.
+* Patients that arrived via public transport or taxi have the least waiting times.
 
 
-* 
+
