@@ -1,5 +1,5 @@
 # Real Time Simulation Modeling of Waiting Times in the Emergency Department
-This project focuses on the real-time simulation of the emergency department on a typical day using statistical models and distributions. This project provides insights into the process, waiting times, bottlenecks, and proposed modifications.
+This project focuses on the real-time simulation of the emergency department on a typical day using statistical models and distributions. This project provides insights into the process, waiting times, bottlenecks, proposed modifications, and recommendations.
 
 **Goal:** 
 
