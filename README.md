@@ -13,23 +13,32 @@ This study addresses the following questions:
 * Are the resources utilized effectively and what are the possible areas of improvement?
 
 
-
-Investigate and fit nonlinear relationships using the Generalized Additive Model and Basis spline with different smoothing parameters, number of knots, degrees of polynomials, and degrees of freedom. 
-
 **Data**
 
 Emergency department data for 24-hours with 130 patient arrivals using four different arrival means - Car, Public Transportation, County Services, and Other unspecified means.
 Variables include: Patient No, Arrival Time, Means of Arrival, Check-in and Triage Time, Emergency Room Number, Time Spent in the Emergency Room, and Departure Time.
 
+**Software**
 
-**Statistical Techniques**
+ARENA Simulation software was used in the simulation, visulaization, and animation of the process flow.
 
-We consider statistical techniques and models such as:
-* Generalized Additive Model for Univariate Data
-*  Generalized Additive Model for Multivariate Data
-*  B-spline with different numbers of knots, degrees of polynomials, degrees of freedom, and truncated power basis function.
+**Modeling**
+
+The process flow is simulated and modeled using statistical distributions such as:
+* Arrival rates are simulated using Non-stationary Poisson process with a specific rate function.
+* Arrival Distribution and Emergency Room Availability are simulated based on schedule in the dataset.
+* Service time of the Receptionist/Triage Nurse is simulated using Beta distribution.
+
+Model verification is conducted, proposed modifications are made and assessed. See the final project presentation here: [Waiting in the ed department on A Typical Day(https://github.com/saidatsanni/SIMULATING-PATIENT-WAIT-TIME-IN-THE-EMERGENCY-DEPARTMENT-ED-/assets/139437600/00a1aa49-3617-48c0-a2f5-04f5c5c33e63)
+]()
+
+**Conclusion**
+
+* The overall patients avg. waiting time is 28.31 minutes and a max. of 334.90 minutes (an extreme case).
+* The most wait is at the check-in and triage process.
+* Waiting times vary based on patients means of arrival.
+** Unspecified forms of arrivals are the highest, and then car arrivals
+** Public transport or taxi are the least.
 
 
-**Project**
-
-R and R Markdown were used for the coding and the creation of the project which can be found here: [Data Modeling with Splines and GAM](https://rpubs.com/Saidat/B-Splines-and-GAM)
+* 
