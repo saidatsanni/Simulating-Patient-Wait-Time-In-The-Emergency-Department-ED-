@@ -1,4 +1,5 @@
 # Real Time Simulation Modeling of Waiting Times in the Emergency Department
+
 This project focuses on the real-time simulation of the emergency department on a typical day using statistical models and distributions. This project provides insights into the process, waiting times, bottlenecks, proposed modifications, and recommendations.
 
 **Goal:** 
@@ -15,7 +16,7 @@ This study addresses the following questions:
 
 **Data**
 
-Emergency department data for 24-hours with 130 patient arrivals using four different arrival means - Car, Public Transportation, County Services, and Other unspecified means.
+Emergency Department data for 24-hours with 130 patient arrivals using four different arrival means - Car, Public Transportation, County Services, and Other unspecified means.
 Variables include: Patient No, Arrival Time, Means of Arrival, Check-in and Triage Time, Emergency Room Number, Time Spent in the Emergency Room, and Departure Time.
 
 **Software**
@@ -29,7 +30,7 @@ The process flow is simulated and modeled using statistical distributions such a
 * Arrival Distribution and Emergency Room Availability are simulated based on schedule in the dataset.
 * Service time of the Receptionist/Triage Nurse is simulated using Beta distribution.
 
-Model verification is conducted, proposed modifications are made and assessed. See the final project presentation here: [Waiting in the ed department on A Typical Day](https://github.com/saidatsanni/SIMULATING-PATIENT-WAIT-TIME-IN-THE-EMERGENCY-DEPARTMENT-ED-/blob/e478ae3c10242da214c483d994e01f4911a47ebb/Simulation%20Modeling%20of%20Waiting%20Times%20in%20the%20ED.pdf)
+Model verification is conducted, proposed modifications are made and assessed. See the final project presentation here: [Waiting in the Emergency Department on a Typical Day](https://github.com/saidatsanni/SIMULATING-PATIENT-WAIT-TIME-IN-THE-EMERGENCY-DEPARTMENT-ED-/blob/e478ae3c10242da214c483d994e01f4911a47ebb/Simulation%20Modeling%20of%20Waiting%20Times%20in%20the%20ED.pdf)
 
 **Conclusion**
 
