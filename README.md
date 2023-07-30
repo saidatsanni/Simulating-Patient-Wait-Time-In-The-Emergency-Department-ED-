@@ -29,7 +29,7 @@ The process flow is simulated and modeled using statistical distributions such a
 * Arrival Distribution and Emergency Room Availability are simulated based on schedule in the dataset.
 * Service time of the Receptionist/Triage Nurse is simulated using Beta distribution.
 
-Model verification is conducted, proposed modifications are made and assessed. See the final project presentation here: [Waiting in the ed department on A Typical Day(Simulation Modeling of Waiting Times in the ED.pdf)
+Model verification is conducted, proposed modifications are made and assessed. See the final project presentation here: [Waiting in the ed department on A Typical Day(SIMULATING-PATIENT-WAIT-TIME-IN-THE-EMERGENCY-DEPARTMENT-ED-/Simulation Modeling of Waiting Times in the ED.pdf)
 
 **Conclusion**
 
