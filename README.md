@@ -1,6 +1,6 @@
-# Real-Time Simulation Modeling of Waiting Times in the Emergency Department
+# Real-Time Simulation Modeling of Waiting Times in the Emergency Department (ED)
 
-This project focuses on the real-time simulation of the emergency department on a typical day using statistical models and distributions. This project provides insights into the process, waiting times, bottlenecks, proposed modifications, and recommendations.
+This project focuses on the real-time simulation of the emergency department on a typical day using statistical models and distributions. This project provides insights into the process, waiting times, and bottlenecks. Modifications and recommendations are proposed to optimize the process flow, reduce patient wait times, and increase utilization rates where necessary.
 
 **Goal:** 
 
@@ -21,7 +21,7 @@ Variables include: Patient No, Arrival Time, Means of Arrival, Check-in and Tria
 
 **Software**
 
-ARENA Simulation software was used in the simulation, visulaization, and animation of the process flow.
+ARENA Simulation software was used in the simulation, visualization, and analysis of the process flow.
 
 **Modeling**
 
